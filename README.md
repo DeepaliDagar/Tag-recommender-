@@ -1,9 +1,9 @@
 # Tag-recommender-
 
-## Project Overview
+### Project Overview
 This project aims to analyze and classify text data using various machine learning techniques. It includes several stages, from importing data to Google Cloud Storage (GCS) to performing sentiment analysis and multi-label tag classification. Each notebook focuses on a specific aspect of the project pipeline. Below is an overview of each notebook:
 
-File Structure
+### File Structure
 01 Import Data to GCS.ipynb
 This notebook demonstrates how to import and store datasets into Google Cloud Storage (GCS) for further processing.
 
